@@ -19,7 +19,7 @@ The location of the dcm2niix bin and fsl5.0-fslreorient2std bin can be set in th
 
 ## Running DeepDicomSort
 
-Before running DeepDicomSort pre-processing of the data is required.
+Before running DeepDicomSort, pre-processing of the data is required.
 Set the root folder containg the DICOM folders to be organized in the config.yaml file.
 After this, go to the preprocessing folder and run `python3 preprocessing_pipeline.py`, this will then perform all the necessary steps.
 
